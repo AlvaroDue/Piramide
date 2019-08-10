@@ -62,8 +62,23 @@ button {
     left: 0;
     height: 32px;
     width: 32px;
-    background-color: blue;
     border-radius: 50%;
+  }
+
+  .colorUno {
+      background-color: #c82a54;
+  }
+
+  .colorDos {
+      background-color: #ef280f;
+  }
+
+  .colorTres {
+      background-color: #e36b2c;
+  }
+
+  .colorCuatro {
+      background-color: #e39a2c; 
   }
   
   .checkmark:after {
